@@ -1,3 +1,13 @@
+<script>
+var MemberSpace = window.MemberSpace || {"alt etki alanı":"github1"};
+(işlev(d){
+  var s = d.createElement("script");
+  s.src = "https://cdn.memberspace.com/scripts/widgets.js";
+  var e = d.getElementsByTagName("script")[0];
+  e.parentNode.insertBefore(s,e);
+}(belge));
+</script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Bitcoinstar-1/Bitcoinstar-1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -14,6 +24,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
